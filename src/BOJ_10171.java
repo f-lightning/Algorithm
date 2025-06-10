@@ -1,4 +1,4 @@
-public class Main {
+public class BOJ_10171 {
     public static void main(String[] args) {
         String str = "\\    /\\\n" +
                 " )  ( ')\n" +
